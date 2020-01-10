@@ -1,0 +1,1226 @@
+[
+    {
+        "resonseUI": [
+            {
+                "Error": null,
+                "TechNetAccessRestriction": "MSGONLY",
+                "TechNum": "6087"
+            },
+            {
+                "Error": null,
+                "TechNetAccessRestriction": "MSGONLY",
+                "TechNum": "6513"
+            },
+            {
+                "Error": null,
+                "TechNetAccessRestriction": "MSGONLY",
+                "TechNum": "6821"
+            },
+            {
+                "Error": "Invalid TechNum of 8765",
+                "TechNetAccessRestriction": "MSGONLY",
+                "TechNum": "8765"
+            },
+            {
+                "Error": null,
+                "TechNetAccessRestriction": "MSGONLY",
+                "TechNum": "9813"
+            },
+            {
+                "Error": null,
+                "TechNetAccessRestriction": "MSGONLY",
+                "TechNum": "9822"
+            },
+            {
+                "Error": null,
+                "TechNetAccessRestriction": "MSGONLY",
+                "TechNum": "9824"
+            },
+            {
+                "Error": null,
+                "TechNetAccessRestriction": "MSGONLY",
+                "TechNum": "9842"
+            }
+        ],
+        "fulfillmentCenter": "184957401",
+        "ntId": null,
+        "msoUniqueId": null,
+        "techId": null
+    },
+    {
+        "resonseUI": [
+            {
+                "Error": null,
+                "TechNetAccessRestriction": "MSGONLY",
+                "TechNum": "4303"
+            },
+            {
+                "Error": null,
+                "TechNetAccessRestriction": "MSGONLY",
+                "TechNum": "8339"
+            },
+            {
+                "Error": null,
+                "TechNetAccessRestriction": "MSGONLY",
+                "TechNum": "9026"
+            },
+            {
+                "Error": null,
+                "TechNetAccessRestriction": "MSGONLY",
+                "TechNum": "9085"
+            },
+            {
+                "Error": null,
+                "TechNetAccessRestriction": "MSGONLY",
+                "TechNum": "9097"
+            }
+        ],
+        "fulfillmentCenter": "183960001",
+        "ntId": null,
+        "msoUniqueId": null,
+        "techId": null
+    },
+    {
+        "resonseUI": [
+            {
+                "Error": null,
+                "TechNetAccessRestriction": "MSGONLY",
+                "TechNum": "3808"
+            },
+            {
+                "Error": null,
+                "TechNetAccessRestriction": "MSGONLY",
+                "TechNum": "3821"
+            },
+            {
+                "Error": null,
+                "TechNetAccessRestriction": "MSGONLY",
+                "TechNum": "3841"
+            },
+            {
+                "Error": null,
+                "TechNetAccessRestriction": "MSGONLY",
+                "TechNum": "3872"
+            },
+            {
+                "Error": null,
+                "TechNetAccessRestriction": "MSGONLY",
+                "TechNum": "3940"
+            },
+            {
+                "Error": null,
+                "TechNetAccessRestriction": "MSGONLY",
+                "TechNum": "3959"
+            },
+            {
+                "Error": null,
+                "TechNetAccessRestriction": "MSGONLY",
+                "TechNum": "6518"
+            },
+            {
+                "Error": null,
+                "TechNetAccessRestriction": "MSGONLY",
+                "TechNum": "6607"
+            },
+            {
+                "Error": null,
+                "TechNetAccessRestriction": "MSGONLY",
+                "TechNum": "6632"
+            },
+            {
+                "Error": null,
+                "TechNetAccessRestriction": "MSGONLY",
+                "TechNum": "6636"
+            },
+            {
+                "Error": null,
+                "TechNetAccessRestriction": "MSGONLY",
+                "TechNum": "6644"
+            },
+            {
+                "Error": null,
+                "TechNetAccessRestriction": "MSGONLY",
+                "TechNum": "6647"
+            },
+            {
+                "Error": null,
+                "TechNetAccessRestriction": "MSGONLY",
+                "TechNum": "6650"
+            },
+            {
+                "Error": null,
+                "TechNetAccessRestriction": "MSGONLY",
+                "TechNum": "6706"
+            },
+            {
+                "Error": null,
+                "TechNetAccessRestriction": "MSGONLY",
+                "TechNum": "6723"
+            },
+            {
+                "Error": null,
+                "TechNetAccessRestriction": "MSGONLY",
+                "TechNum": "7480"
+            },
+            {
+                "Error": null,
+                "TechNetAccessRestriction": "MSGONLY",
+                "TechNum": "7769"
+            },
+            {
+                "Error": null,
+                "TechNetAccessRestriction": "MSGONLY",
+                "TechNum": "8008"
+            },
+            {
+                "Error": null,
+                "TechNetAccessRestriction": "MSGONLY",
+                "TechNum": "8467"
+            }
+        ],
+        "fulfillmentCenter": "183960002",
+        "ntId": null,
+        "msoUniqueId": null,
+        "techId": null
+    },
+    {
+        "resonseUI": [
+            {
+                "Error": null,
+                "TechNetAccessRestriction": "MSGONLY",
+                "TechNum": "1438"
+            },
+            {
+                "Error": null,
+                "TechNetAccessRestriction": "MSGONLY",
+                "TechNum": "7013"
+            },
+            {
+                "Error": null,
+                "TechNetAccessRestriction": "MSGONLY",
+                "TechNum": "7018"
+            },
+            {
+                "Error": null,
+                "TechNetAccessRestriction": "MSGONLY",
+                "TechNum": "7056"
+            },
+            {
+                "Error": null,
+                "TechNetAccessRestriction": "MSGONLY",
+                "TechNum": "7624"
+            },
+            {
+                "Error": null,
+                "TechNetAccessRestriction": "MSGONLY",
+                "TechNum": "7637"
+            },
+            {
+                "Error": null,
+                "TechNetAccessRestriction": "MSGONLY",
+                "TechNum": "7676"
+            },
+            {
+                "Error": null,
+                "TechNetAccessRestriction": "MSGONLY",
+                "TechNum": "7681"
+            },
+            {
+                "Error": null,
+                "TechNetAccessRestriction": "MSGONLY",
+                "TechNum": "7684"
+            },
+            {
+                "Error": null,
+                "TechNetAccessRestriction": "MSGONLY",
+                "TechNum": "7685"
+            },
+            {
+                "Error": null,
+                "TechNetAccessRestriction": "MSGONLY",
+                "TechNum": "7689"
+            },
+            {
+                "Error": null,
+                "TechNetAccessRestriction": "MSGONLY",
+                "TechNum": "7694"
+            },
+            {
+                "Error": null,
+                "TechNetAccessRestriction": "MSGONLY",
+                "TechNum": "7915"
+            },
+            {
+                "Error": "Invalid TechNum of 7918",
+                "TechNetAccessRestriction": "MSGONLY",
+                "TechNum": "7918"
+            },
+            {
+                "Error": null,
+                "TechNetAccessRestriction": "MSGONLY",
+                "TechNum": "7956"
+            },
+            {
+                "Error": null,
+                "TechNetAccessRestriction": "MSGONLY",
+                "TechNum": "7962"
+            },
+            {
+                "Error": "Invalid TechNum of 7970",
+                "TechNetAccessRestriction": "MSGONLY",
+                "TechNum": "7970"
+            },
+            {
+                "Error": "Invalid TechNum of 7988",
+                "TechNetAccessRestriction": "MSGONLY",
+                "TechNum": "7988"
+            }
+        ],
+        "fulfillmentCenter": "185290001",
+        "ntId": null,
+        "msoUniqueId": null,
+        "techId": null
+    },
+    {
+        "resonseUI": [
+            {
+                "Error": "Invalid TechNum of 2001",
+                "TechNetAccessRestriction": "MSGONLY",
+                "TechNum": "2001"
+            },
+            {
+                "Error": "Invalid TechNum of 2140",
+                "TechNetAccessRestriction": "MSGONLY",
+                "TechNum": "2140"
+            }
+        ],
+        "fulfillmentCenter": "18772101",
+        "ntId": null,
+        "msoUniqueId": null,
+        "techId": null
+    },
+    {
+        "resonseUI": [
+            {
+                "Error": null,
+                "TechNetAccessRestriction": "MSGONLY",
+                "TechNum": "5043"
+            },
+            {
+                "Error": "Invalid TechNum of 5523",
+                "TechNetAccessRestriction": "MSGONLY",
+                "TechNum": "5523"
+            },
+            {
+                "Error": "Invalid TechNum of 5559",
+                "TechNetAccessRestriction": "MSGONLY",
+                "TechNum": "5559"
+            },
+            {
+                "Error": null,
+                "TechNetAccessRestriction": "MSGONLY",
+                "TechNum": "5562"
+            },
+            {
+                "Error": null,
+                "TechNetAccessRestriction": "MSGONLY",
+                "TechNum": "5781"
+            },
+            {
+                "Error": null,
+                "TechNetAccessRestriction": "MSGONLY",
+                "TechNum": "7050"
+            },
+            {
+                "Error": null,
+                "TechNetAccessRestriction": "MSGONLY",
+                "TechNum": "7053"
+            },
+            {
+                "Error": "Invalid TechNum of 8586",
+                "TechNetAccessRestriction": "MSGONLY",
+                "TechNum": "8586"
+            },
+            {
+                "Error": null,
+                "TechNetAccessRestriction": "MSGONLY",
+                "TechNum": "9143"
+            }
+        ],
+        "fulfillmentCenter": "181160001",
+        "ntId": null,
+        "msoUniqueId": null,
+        "techId": null
+    },
+    {
+        "resonseUI": [
+            {
+                "Error": null,
+                "TechNetAccessRestriction": "MSGONLY",
+                "TechNum": "1319"
+            },
+            {
+                "Error": null,
+                "TechNetAccessRestriction": "MSGONLY",
+                "TechNum": "1472"
+            },
+            {
+                "Error": null,
+                "TechNetAccessRestriction": "MSGONLY",
+                "TechNum": "1474"
+            },
+            {
+                "Error": null,
+                "TechNetAccessRestriction": "MSGONLY",
+                "TechNum": "1518"
+            },
+            {
+                "Error": null,
+                "TechNetAccessRestriction": "MSGONLY",
+                "TechNum": "8004"
+            },
+            {
+                "Error": null,
+                "TechNetAccessRestriction": "MSGONLY",
+                "TechNum": "8006"
+            },
+            {
+                "Error": null,
+                "TechNetAccessRestriction": "MSGONLY",
+                "TechNum": "8009"
+            },
+            {
+                "Error": null,
+                "TechNetAccessRestriction": "MSGONLY",
+                "TechNum": "8176"
+            },
+            {
+                "Error": null,
+                "TechNetAccessRestriction": "MSGONLY",
+                "TechNum": "8181"
+            },
+            {
+                "Error": null,
+                "TechNetAccessRestriction": "MSGONLY",
+                "TechNum": "8190"
+            },
+            {
+                "Error": null,
+                "TechNetAccessRestriction": "MSGONLY",
+                "TechNum": "8193"
+            },
+            {
+                "Error": null,
+                "TechNetAccessRestriction": "MSGONLY",
+                "TechNum": "8194"
+            },
+            {
+                "Error": null,
+                "TechNetAccessRestriction": "MSGONLY",
+                "TechNum": "8199"
+            },
+            {
+                "Error": null,
+                "TechNetAccessRestriction": "MSGONLY",
+                "TechNum": "8343"
+            }
+        ],
+        "fulfillmentCenter": "182201301",
+        "ntId": null,
+        "msoUniqueId": null,
+        "techId": null
+    },
+    {
+        "resonseUI": [
+            {
+                "Error": null,
+                "TechNetAccessRestriction": "MSGONLY",
+                "TechNum": "7258"
+            },
+            {
+                "Error": null,
+                "TechNetAccessRestriction": "MSGONLY",
+                "TechNum": "7568"
+            }
+        ],
+        "fulfillmentCenter": "187982001",
+        "ntId": null,
+        "msoUniqueId": null,
+        "techId": null
+    },
+    {
+        "resonseUI": [
+            {
+                "Error": "Invalid TechNum of 6923",
+                "TechNetAccessRestriction": "MSGONLY",
+                "TechNum": "6923"
+            },
+            {
+                "Error": "Invalid TechNum of 8117",
+                "TechNetAccessRestriction": "MSGONLY",
+                "TechNum": "8117"
+            },
+            {
+                "Error": "Invalid TechNum of 8573",
+                "TechNetAccessRestriction": "MSGONLY",
+                "TechNum": "8573"
+            }
+        ],
+        "fulfillmentCenter": "84983200",
+        "ntId": null,
+        "msoUniqueId": null,
+        "techId": null
+    },
+    {
+        "resonseUI": [
+            {
+                "Error": null,
+                "TechNetAccessRestriction": "MSGONLY",
+                "TechNum": "1705"
+            },
+            {
+                "Error": null,
+                "TechNetAccessRestriction": "MSGONLY",
+                "TechNum": "7242"
+            },
+            {
+                "Error": null,
+                "TechNetAccessRestriction": "MSGONLY",
+                "TechNum": "7568"
+            }
+        ],
+        "fulfillmentCenter": "187981001",
+        "ntId": null,
+        "msoUniqueId": null,
+        "techId": null
+    },
+    {
+        "resonseUI": [
+            {
+                "Error": null,
+                "TechNetAccessRestriction": "MSGONLY",
+                "TechNum": "1031"
+            },
+            {
+                "Error": null,
+                "TechNetAccessRestriction": "MSGONLY",
+                "TechNum": "7282"
+            },
+            {
+                "Error": null,
+                "TechNetAccessRestriction": "MSGONLY",
+                "TechNum": "7619"
+            }
+        ],
+        "fulfillmentCenter": "187983001",
+        "ntId": null,
+        "msoUniqueId": null,
+        "techId": null
+    },
+    {
+        "resonseUI": [
+            {
+                "Error": null,
+                "TechNetAccessRestriction": "MSGONLY",
+                "TechNum": "3068"
+            }
+        ],
+        "fulfillmentCenter": "187984002",
+        "ntId": null,
+        "msoUniqueId": null,
+        "techId": null
+    },
+    {
+        "resonseUI": [
+            {
+                "Error": null,
+                "TechNetAccessRestriction": "MSGONLY",
+                "TechNum": "1867"
+            },
+            {
+                "Error": null,
+                "TechNetAccessRestriction": "MSGONLY",
+                "TechNum": "7020"
+            },
+            {
+                "Error": null,
+                "TechNetAccessRestriction": "MSGONLY",
+                "TechNum": "7486"
+            }
+        ],
+        "fulfillmentCenter": "187984001",
+        "ntId": null,
+        "msoUniqueId": null,
+        "techId": null
+    },
+    {
+        "resonseUI": [
+            {
+                "Error": null,
+                "TechNetAccessRestriction": "MSGONLY",
+                "TechNum": "6229"
+            },
+            {
+                "Error": null,
+                "TechNetAccessRestriction": "MSGONLY",
+                "TechNum": "6292"
+            }
+        ],
+        "fulfillmentCenter": "184991001",
+        "ntId": null,
+        "msoUniqueId": null,
+        "techId": null
+    },
+    {
+        "resonseUI": [
+            {
+                "Error": "Invalid TechNum of 0365",
+                "TechNetAccessRestriction": "MSGONLY",
+                "TechNum": "0365"
+            },
+            {
+                "Error": "Invalid TechNum of 0408",
+                "TechNetAccessRestriction": "MSGONLY",
+                "TechNum": "0408"
+            },
+            {
+                "Error": null,
+                "TechNetAccessRestriction": "MSGONLY",
+                "TechNum": "0424"
+            },
+            {
+                "Error": null,
+                "TechNetAccessRestriction": "MSGONLY",
+                "TechNum": "0425"
+            },
+            {
+                "Error": null,
+                "TechNetAccessRestriction": "MSGONLY",
+                "TechNum": "0537"
+            },
+            {
+                "Error": "Invalid TechNum of 0637",
+                "TechNetAccessRestriction": "MSGONLY",
+                "TechNum": "0637"
+            },
+            {
+                "Error": "Invalid TechNum of 0870",
+                "TechNetAccessRestriction": "MSGONLY",
+                "TechNum": "0870"
+            },
+            {
+                "Error": "Invalid TechNum of 1310",
+                "TechNetAccessRestriction": "MSGONLY",
+                "TechNum": "1310"
+            },
+            {
+                "Error": "Invalid TechNum of 1507",
+                "TechNetAccessRestriction": "MSGONLY",
+                "TechNum": "1507"
+            },
+            {
+                "Error": null,
+                "TechNetAccessRestriction": "MSGONLY",
+                "TechNum": "1514"
+            },
+            {
+                "Error": "Invalid TechNum of 1532",
+                "TechNetAccessRestriction": "MSGONLY",
+                "TechNum": "1532"
+            },
+            {
+                "Error": "Invalid TechNum of 1567",
+                "TechNetAccessRestriction": "MSGONLY",
+                "TechNum": "1567"
+            },
+            {
+                "Error": "Invalid TechNum of 1617",
+                "TechNetAccessRestriction": "MSGONLY",
+                "TechNum": "1617"
+            },
+            {
+                "Error": "Invalid TechNum of 1620",
+                "TechNetAccessRestriction": "MSGONLY",
+                "TechNum": "1620"
+            },
+            {
+                "Error": null,
+                "TechNetAccessRestriction": "MSGONLY",
+                "TechNum": "1636"
+            },
+            {
+                "Error": "Invalid TechNum of 1638",
+                "TechNetAccessRestriction": "MSGONLY",
+                "TechNum": "1638"
+            },
+            {
+                "Error": "Invalid TechNum of 1644",
+                "TechNetAccessRestriction": "MSGONLY",
+                "TechNum": "1644"
+            },
+            {
+                "Error": "Invalid TechNum of 1728",
+                "TechNetAccessRestriction": "MSGONLY",
+                "TechNum": "1728"
+            },
+            {
+                "Error": "Invalid TechNum of 1732",
+                "TechNetAccessRestriction": "MSGONLY",
+                "TechNum": "1732"
+            },
+            {
+                "Error": "Invalid TechNum of 1771",
+                "TechNetAccessRestriction": "MSGONLY",
+                "TechNum": "1771"
+            },
+            {
+                "Error": "Invalid TechNum of 1798",
+                "TechNetAccessRestriction": "MSGONLY",
+                "TechNum": "1798"
+            },
+            {
+                "Error": "Invalid TechNum of 2231",
+                "TechNetAccessRestriction": "MSGONLY",
+                "TechNum": "2231"
+            },
+            {
+                "Error": "Invalid TechNum of 3120",
+                "TechNetAccessRestriction": "MSGONLY",
+                "TechNum": "3120"
+            },
+            {
+                "Error": "Invalid TechNum of 3286",
+                "TechNetAccessRestriction": "MSGONLY",
+                "TechNum": "3286"
+            },
+            {
+                "Error": "Invalid TechNum of 8646",
+                "TechNetAccessRestriction": "MSGONLY",
+                "TechNum": "8646"
+            }
+        ],
+        "fulfillmentCenter": "84971000",
+        "ntId": null,
+        "msoUniqueId": null,
+        "techId": null
+    },
+    {
+        "resonseUI": [
+            {
+                "Error": null,
+                "TechNetAccessRestriction": "MSGONLY",
+                "TechNum": "0870"
+            },
+            {
+                "Error": null,
+                "TechNetAccessRestriction": "MSGONLY",
+                "TechNum": "0957"
+            },
+            {
+                "Error": null,
+                "TechNetAccessRestriction": "MSGONLY",
+                "TechNum": "9348"
+            },
+            {
+                "Error": null,
+                "TechNetAccessRestriction": "MSGONLY",
+                "TechNum": "9349"
+            }
+        ],
+        "fulfillmentCenter": "187761001",
+        "ntId": null,
+        "msoUniqueId": null,
+        "techId": null
+    },
+    {
+        "resonseUI": [
+            {
+                "Error": "Invalid TechNum of 1123",
+                "TechNetAccessRestriction": "MSGONLY",
+                "TechNum": "1123"
+            },
+            {
+                "Error": "Invalid TechNum of 1245",
+                "TechNetAccessRestriction": "MSGONLY",
+                "TechNum": "1245"
+            },
+            {
+                "Error": null,
+                "TechNetAccessRestriction": "MSGONLY",
+                "TechNum": "1528"
+            },
+            {
+                "Error": "Invalid TechNum of 1615",
+                "TechNetAccessRestriction": "MSGONLY",
+                "TechNum": "1615"
+            },
+            {
+                "Error": "Invalid TechNum of 1695",
+                "TechNetAccessRestriction": "MSGONLY",
+                "TechNum": "1695"
+            },
+            {
+                "Error": "Invalid TechNum of 3117",
+                "TechNetAccessRestriction": "MSGONLY",
+                "TechNum": "3117"
+            },
+            {
+                "Error": "Invalid TechNum of 3337",
+                "TechNetAccessRestriction": "MSGONLY",
+                "TechNum": "3337"
+            },
+            {
+                "Error": "Invalid TechNum of 8578",
+                "TechNetAccessRestriction": "MSGONLY",
+                "TechNum": "8578"
+            },
+            {
+                "Error": "Invalid TechNum of 8582",
+                "TechNetAccessRestriction": "MSGONLY",
+                "TechNum": "8582"
+            },
+            {
+                "Error": "Invalid TechNum of 8603",
+                "TechNetAccessRestriction": "MSGONLY",
+                "TechNum": "8603"
+            },
+            {
+                "Error": "Invalid TechNum of 8607",
+                "TechNetAccessRestriction": "MSGONLY",
+                "TechNum": "8607"
+            },
+            {
+                "Error": "Invalid TechNum of 8635",
+                "TechNetAccessRestriction": "MSGONLY",
+                "TechNum": "8635"
+            },
+            {
+                "Error": "Invalid TechNum of 8681",
+                "TechNetAccessRestriction": "MSGONLY",
+                "TechNum": "8681"
+            },
+            {
+                "Error": null,
+                "TechNetAccessRestriction": "MSGONLY",
+                "TechNum": "8720"
+            },
+            {
+                "Error": null,
+                "TechNetAccessRestriction": "MSGONLY",
+                "TechNum": "8784"
+            },
+            {
+                "Error": "Invalid TechNum of 8822",
+                "TechNetAccessRestriction": "MSGONLY",
+                "TechNum": "8822"
+            },
+            {
+                "Error": "Invalid TechNum of 8941",
+                "TechNetAccessRestriction": "MSGONLY",
+                "TechNum": "8941"
+            },
+            {
+                "Error": null,
+                "TechNetAccessRestriction": "MSGONLY",
+                "TechNum": "8962"
+            },
+            {
+                "Error": null,
+                "TechNetAccessRestriction": "MSGONLY",
+                "TechNum": "9050"
+            },
+            {
+                "Error": "Invalid TechNum of 9052",
+                "TechNetAccessRestriction": "MSGONLY",
+                "TechNum": "9052"
+            },
+            {
+                "Error": "Invalid TechNum of 9087",
+                "TechNetAccessRestriction": "MSGONLY",
+                "TechNum": "9087"
+            },
+            {
+                "Error": "Invalid TechNum of 9119",
+                "TechNetAccessRestriction": "MSGONLY",
+                "TechNum": "9119"
+            },
+            {
+                "Error": "Invalid TechNum of 9309",
+                "TechNetAccessRestriction": "MSGONLY",
+                "TechNum": "9309"
+            },
+            {
+                "Error": null,
+                "TechNetAccessRestriction": "MSGONLY",
+                "TechNum": "9318"
+            },
+            {
+                "Error": null,
+                "TechNetAccessRestriction": "MSGONLY",
+                "TechNum": "9530"
+            },
+            {
+                "Error": null,
+                "TechNetAccessRestriction": "MSGONLY",
+                "TechNum": "9560"
+            },
+            {
+                "Error": null,
+                "TechNetAccessRestriction": "MSGONLY",
+                "TechNum": "9580"
+            },
+            {
+                "Error": "Invalid TechNum of 9760",
+                "TechNetAccessRestriction": "MSGONLY",
+                "TechNum": "9760"
+            },
+            {
+                "Error": null,
+                "TechNetAccessRestriction": "MSGONLY",
+                "TechNum": "9787"
+            },
+            {
+                "Error": null,
+                "TechNetAccessRestriction": "MSGONLY",
+                "TechNum": "9797"
+            },
+            {
+                "Error": null,
+                "TechNetAccessRestriction": "MSGONLY",
+                "TechNum": "9835"
+            },
+            {
+                "Error": "Invalid TechNum of 9855",
+                "TechNetAccessRestriction": "MSGONLY",
+                "TechNum": "9855"
+            },
+            {
+                "Error": null,
+                "TechNetAccessRestriction": "MSGONLY",
+                "TechNum": "9906"
+            },
+            {
+                "Error": "Invalid TechNum of 9907",
+                "TechNetAccessRestriction": "MSGONLY",
+                "TechNum": "9907"
+            },
+            {
+                "Error": null,
+                "TechNetAccessRestriction": "MSGONLY",
+                "TechNum": "9945"
+            }
+        ],
+        "fulfillmentCenter": "184952901",
+        "ntId": null,
+        "msoUniqueId": null,
+        "techId": null
+    },
+    {
+        "resonseUI": [
+            {
+                "Error": "Invalid TechNum of 7020",
+                "TechNetAccessRestriction": "MSGONLY",
+                "TechNum": "7020"
+            },
+            {
+                "Error": "Invalid TechNum of 7027",
+                "TechNetAccessRestriction": "MSGONLY",
+                "TechNum": "7027"
+            },
+            {
+                "Error": "Invalid TechNum of 7047",
+                "TechNetAccessRestriction": "MSGONLY",
+                "TechNum": "7047"
+            },
+            {
+                "Error": null,
+                "TechNetAccessRestriction": "MSGONLY",
+                "TechNum": "7052"
+            },
+            {
+                "Error": "Invalid TechNum of 7584",
+                "TechNetAccessRestriction": "MSGONLY",
+                "TechNum": "7584"
+            },
+            {
+                "Error": "Invalid TechNum of 7615",
+                "TechNetAccessRestriction": "MSGONLY",
+                "TechNum": "7615"
+            },
+            {
+                "Error": "Invalid TechNum of 7827",
+                "TechNetAccessRestriction": "MSGONLY",
+                "TechNum": "7827"
+            },
+            {
+                "Error": "Invalid TechNum of 7834",
+                "TechNetAccessRestriction": "MSGONLY",
+                "TechNum": "7834"
+            },
+            {
+                "Error": "Invalid TechNum of 7835",
+                "TechNetAccessRestriction": "MSGONLY",
+                "TechNum": "7835"
+            },
+            {
+                "Error": "Invalid TechNum of 7841",
+                "TechNetAccessRestriction": "MSGONLY",
+                "TechNum": "7841"
+            },
+            {
+                "Error": "Invalid TechNum of 7848",
+                "TechNetAccessRestriction": "MSGONLY",
+                "TechNum": "7848"
+            },
+            {
+                "Error": null,
+                "TechNetAccessRestriction": "MSGONLY",
+                "TechNum": "7933"
+            },
+            {
+                "Error": "Invalid TechNum of 7970",
+                "TechNetAccessRestriction": "MSGONLY",
+                "TechNum": "7970"
+            },
+            {
+                "Error": "Invalid TechNum of 8104",
+                "TechNetAccessRestriction": "MSGONLY",
+                "TechNum": "8104"
+            },
+            {
+                "Error": "Invalid TechNum of 8107",
+                "TechNetAccessRestriction": "MSGONLY",
+                "TechNum": "8107"
+            },
+            {
+                "Error": "Invalid TechNum of 8111",
+                "TechNetAccessRestriction": "MSGONLY",
+                "TechNum": "8111"
+            },
+            {
+                "Error": "Invalid TechNum of 8112",
+                "TechNetAccessRestriction": "MSGONLY",
+                "TechNum": "8112"
+            },
+            {
+                "Error": "Invalid TechNum of 8116",
+                "TechNetAccessRestriction": "MSGONLY",
+                "TechNum": "8116"
+            },
+            {
+                "Error": "Invalid TechNum of 8117",
+                "TechNetAccessRestriction": "MSGONLY",
+                "TechNum": "8117"
+            },
+            {
+                "Error": "Invalid TechNum of 8118",
+                "TechNetAccessRestriction": "MSGONLY",
+                "TechNum": "8118"
+            },
+            {
+                "Error": "Invalid TechNum of 8121",
+                "TechNetAccessRestriction": "MSGONLY",
+                "TechNum": "8121"
+            },
+            {
+                "Error": "Invalid TechNum of 8122",
+                "TechNetAccessRestriction": "MSGONLY",
+                "TechNum": "8122"
+            },
+            {
+                "Error": "Invalid TechNum of 8125",
+                "TechNetAccessRestriction": "MSGONLY",
+                "TechNum": "8125"
+            },
+            {
+                "Error": "Invalid TechNum of 8151",
+                "TechNetAccessRestriction": "MSGONLY",
+                "TechNum": "8151"
+            },
+            {
+                "Error": "Invalid TechNum of 8152",
+                "TechNetAccessRestriction": "MSGONLY",
+                "TechNum": "8152"
+            },
+            {
+                "Error": "Invalid TechNum of 8154",
+                "TechNetAccessRestriction": "MSGONLY",
+                "TechNum": "8154"
+            },
+            {
+                "Error": null,
+                "TechNetAccessRestriction": "MSGONLY",
+                "TechNum": "8312"
+            }
+        ],
+        "fulfillmentCenter": "182991001",
+        "ntId": null,
+        "msoUniqueId": null,
+        "techId": null
+    },
+    {
+        "resonseUI": [
+            {
+                "Error": "Invalid TechNum of 2993",
+                "TechNetAccessRestriction": "MSGONLY",
+                "TechNum": "2993"
+            }
+        ],
+        "fulfillmentCenter": "183991101",
+        "ntId": null,
+        "msoUniqueId": null,
+        "techId": null
+    },
+    {
+        "resonseUI": [
+            {
+                "Error": null,
+                "TechNetAccessRestriction": "MSGONLY",
+                "TechNum": "1200"
+            },
+            {
+                "Error": null,
+                "TechNetAccessRestriction": "MSGONLY",
+                "TechNum": "1469"
+            },
+            {
+                "Error": null,
+                "TechNetAccessRestriction": "MSGONLY",
+                "TechNum": "7181"
+            },
+            {
+                "Error": "Invalid TechNum of 7689",
+                "TechNetAccessRestriction": "MSGONLY",
+                "TechNum": "7689"
+            },
+            {
+                "Error": "Invalid TechNum of 8343",
+                "TechNetAccessRestriction": "MSGONLY",
+                "TechNum": "8343"
+            }
+        ],
+        "fulfillmentCenter": "187734001",
+        "ntId": null,
+        "msoUniqueId": null,
+        "techId": null
+    },
+    {
+        "resonseUI": [
+            {
+                "Error": null,
+                "TechNetAccessRestriction": "MSGONLY",
+                "TechNum": "2190"
+            },
+            {
+                "Error": null,
+                "TechNetAccessRestriction": "MSGONLY",
+                "TechNum": "6109"
+            },
+            {
+                "Error": null,
+                "TechNetAccessRestriction": "MSGONLY",
+                "TechNum": "6483"
+            },
+            {
+                "Error": "Invalid TechNum of 6518",
+                "TechNetAccessRestriction": "MSGONLY",
+                "TechNum": "6518"
+            },
+            {
+                "Error": null,
+                "TechNetAccessRestriction": "MSGONLY",
+                "TechNum": "6523"
+            },
+            {
+                "Error": null,
+                "TechNetAccessRestriction": "MSGONLY",
+                "TechNum": "6789"
+            },
+            {
+                "Error": "Invalid TechNum of 7185",
+                "TechNetAccessRestriction": "MSGONLY",
+                "TechNum": "7185"
+            },
+            {
+                "Error": "Invalid TechNum of 8725",
+                "TechNetAccessRestriction": "MSGONLY",
+                "TechNum": "8725"
+            },
+            {
+                "Error": null,
+                "TechNetAccessRestriction": "MSGONLY",
+                "TechNum": "9375"
+            }
+        ],
+        "fulfillmentCenter": "185351001",
+        "ntId": null,
+        "msoUniqueId": null,
+        "techId": null
+    },
+    {
+        "resonseUI": [
+            {
+                "Error": null,
+                "TechNetAccessRestriction": "MSGONLY",
+                "TechNum": "7090"
+            },
+            {
+                "Error": null,
+                "TechNetAccessRestriction": "MSGONLY",
+                "TechNum": "7180"
+            },
+            {
+                "Error": "Invalid TechNum of 8382",
+                "TechNetAccessRestriction": "MSGONLY",
+                "TechNum": "8382"
+            },
+            {
+                "Error": "Invalid TechNum of 8432",
+                "TechNetAccessRestriction": "MSGONLY",
+                "TechNum": "8432"
+            }
+        ],
+        "fulfillmentCenter": "187731001",
+        "ntId": null,
+        "msoUniqueId": null,
+        "techId": null
+    },
+    {
+        "resonseUI": [
+            {
+                "Error": null,
+                "TechNetAccessRestriction": "MSGONLY",
+                "TechNum": "1137"
+            },
+            {
+                "Error": null,
+                "TechNetAccessRestriction": "MSGONLY",
+                "TechNum": "1198"
+            },
+            {
+                "Error": null,
+                "TechNetAccessRestriction": "MSGONLY",
+                "TechNum": "1956"
+            },
+            {
+                "Error": null,
+                "TechNetAccessRestriction": "MSGONLY",
+                "TechNum": "4473"
+            },
+            {
+                "Error": null,
+                "TechNetAccessRestriction": "MSGONLY",
+                "TechNum": "4474"
+            },
+            {
+                "Error": "Invalid TechNum of 8631",
+                "TechNetAccessRestriction": "MSGONLY",
+                "TechNum": "8631"
+            }
+        ],
+        "fulfillmentCenter": "185351002",
+        "ntId": null,
+        "msoUniqueId": null,
+        "techId": null
+    }
+]

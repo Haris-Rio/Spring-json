@@ -1,0 +1,48 @@
+{
+        "resonseUI": [
+            {
+                "Error": null,
+                "TechNetAccessRestriction": "MSGONLY",
+                "TechNum": "6087"
+            },
+            {
+                "Error": null,
+                "TechNetAccessRestriction": "MSGONLY",
+                "TechNum": "6513"
+            },
+            {
+                "Error": null,
+                "TechNetAccessRestriction": "MSGONLY",
+                "TechNum": "6821"
+            },
+            {
+                "Error": "Invalid TechNum of 8765",
+                "TechNetAccessRestriction": "MSGONLY",
+                "TechNum": "8765"
+            },
+            {
+                "Error": null,
+                "TechNetAccessRestriction": "MSGONLY",
+                "TechNum": "9813"
+            },
+            {
+                "Error": null,
+                "TechNetAccessRestriction": "MSGONLY",
+                "TechNum": "9822"
+            },
+            {
+                "Error": null,
+                "TechNetAccessRestriction": "MSGONLY",
+                "TechNum": "9824"
+            },
+            {
+                "Error": null,
+                "TechNetAccessRestriction": "MSGONLY",
+                "TechNum": "9842"
+            }
+        ],
+        "fulfillmentCenter": "184957401",
+        "ntId": null,
+        "msoUniqueId": null,
+        "techId": null
+    }
